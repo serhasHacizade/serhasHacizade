@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eren Salih</h1>
 <h3 align="center">A frontend developer from Türkiye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serhashacizade" alt="serhashacizade" /></a> </p>
-
 - 🔭 I’m currently working on **React.js and Vue.js**
 
 - 👨‍💻 All of my projects are available at [[in my github account](in my github account) -]([in my github account](in my github account) -)
@@ -24,7 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serhashacizade&show_icons=true&locale=en" alt="serhashacizade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serhashacizade&" alt="serhashacizade" /></p>
-
-
-
-
