@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React.js and Vue.js**
 
-- 👨‍💻 All of my projects are available at [[in my github account](in my github account) -]([in my github account](in my github account) -)
+- 👨‍💻 All of my projects are available in my github account
 
 - 📫 How to reach me **eren.felek.4@gmail.com**
 
