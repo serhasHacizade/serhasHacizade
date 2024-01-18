@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren Salih</h1>
 <h3 align="center">A frontend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **React.js and Vue.js**
+- 🔭 I’m currently working on **React.js, Vue.js and Angular**
 
 - 📫 How to reach me **eren.felek.4@gmail.com**
 
